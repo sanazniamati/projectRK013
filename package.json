@@ -1,7 +1,8 @@
 {
-  "name": "projectrk002",
+  "name": "projectrk013",
   "version": "0.1.0",
   "private": true,
+  "description": "How to draw a Text along path using TextPath",
   "keywords": [
     "react-konva",
     "react",
